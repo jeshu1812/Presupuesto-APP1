@@ -1,0 +1,18 @@
+.container1 {
+    border-style: solid;
+    border-color: green;
+    background-color: #66FF66;
+    border-radius: 10px;
+    
+}
+
+.container2 {
+    border-style: solid;
+    border-color: red;
+    background-color: #CC3333;
+    border-radius: 10px;
+}
+
+body {
+    background-color:aquamarine
+}
